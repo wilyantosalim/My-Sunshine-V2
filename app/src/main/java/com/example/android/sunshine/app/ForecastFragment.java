@@ -35,6 +35,7 @@ import java.util.List;
 
 /**
  * Created by wilyanto.salim on 11/4/2015.
+ * 
  */
 public class ForecastFragment extends Fragment {
 
